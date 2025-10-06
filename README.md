@@ -1,1 +1,1 @@
-"# COMP4102-Panoramic-Photo-Stitcher" 
+# COMP4102-Panoramic-Photo-Stitcher
